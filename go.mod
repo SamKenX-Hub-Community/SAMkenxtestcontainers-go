@@ -15,7 +15,7 @@ require (
 	github.com/moby/term v0.0.0-20221128092401-c43b287e0e0f
 	github.com/opencontainers/image-spec v1.1.0-rc2
 	github.com/stretchr/testify v1.8.2
-	golang.org/x/sys v0.6.0
+	golang.org/x/sys v0.13.0
 	gotest.tools/gotestsum v1.9.0
 )
 
@@ -46,9 +46,9 @@ require (
 	github.com/rogpeppe/go-internal v1.8.1 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/term v0.5.0 // indirect
+	golang.org/x/term v0.13.0 // indirect
 	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 	google.golang.org/genproto v0.0.0-20220617124728-180714bec0ad // indirect
